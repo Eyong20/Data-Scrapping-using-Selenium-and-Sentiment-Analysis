@@ -1,0 +1,15 @@
+Q1
+-----------
+I have plots for two different groups
+
+(1) Events like Christmas, Haloween, Anniversary etc.
+(2) Objects means categories other than events
+
+I have used count/ percentage of both groups separately
+Similarly, I have used Word Cloud, Sentiment Analysis PIE Chart for both groups on separate slides
+Yes, you are right, the count shows like how many people think so
+
+
+Q2
+-----------
+For sentiment analysis I have used VADER library, which makes a lot of things easier: It does not require any training data. It can very well understand the sentiment of a text containing emoticons, slangs, conjunctions, capital words, punctuations and much more. It works excellent on social media text. It contains list of already labelled words by human expert. Using each word score it calculate the negative or positive or neutral of overall post/ review.
